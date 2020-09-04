@@ -1,0 +1,184 @@
+.giphy-class .beat{
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+}
+
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgba(240,240,240,1)
+
+}
+
+
+footer{
+    background-color: #212529;
+    padding-top: 2%;
+    color: #f0ece3;
+    font-size: 95%;
+    margin-left: -5%;
+    margin-right: -5%;
+    font-family: 'Bitter';
+   
+}
+
+.about-kz{
+    font-size: 115%;
+    font-family: 'Bitter';
+}
+#lab_social_icon_footer {
+    padding-top: 1%;
+    background-color:  #212529;
+    margin-left: -5%;
+    margin-right: -5%;
+   
+   
+}
+  
+#lab_social_icon_footer a {
+    color:#f0ece3
+    
+}
+  
+#lab_social_icon_footer #social-fb:hover {
+    color: #3B5998;
+}
+  
+#lab_social_icon_footer #social-in:hover {
+    color: #e8505b;
+}
+
+  
+#lab_social_icon_footer #social-em:hover {
+    color: #f39c12;
+}
+
+#lab_social_icon_footer #what:hover{
+    color:#ade498;
+}
+
+.price{
+    background-color:#707708;
+}
+
+.week{
+    margin-left: 1%;
+    margin-top: 5%;
+}
+
+.w-125{
+    font-size: 25px;
+}
+
+h2{
+    padding-top: 2%;
+}
+
+.ends{
+    padding-bottom: 2%;
+}
+
+.f-class{
+    text-align: center;
+}
+
+
+.columns {
+    width: 85%;
+    padding: 8px;
+    float: center;
+  }
+
+  
+  .pricing {
+    list-style-type: none;
+    border: 1px solid #eee;
+    margin: 0;
+    padding: 0;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+  }
+  
+  
+  
+  .pricing .header {
+    background-color: #111;
+    color: white;
+    font-size: 25px;
+  }
+  
+  .pricing li {
+    border-bottom: 1px solid black;
+    padding: 5%;
+    text-align: center;
+  }
+  
+  .pricing .grey {
+    background-color: #eee;
+    font-size: 20px;
+  }
+  
+  
+  .price-heading{
+    color:black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.price-table{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.right{
+    float: right;
+}
+
+.center-table{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.attract{
+    width:100%;
+}
+
+.carousel{
+    margin-left: -5%;
+    margin-right: -5%;
+}
+
+
+.card-text{
+    font-family: 'Bitter';
+}
+
+.nex, .pre{
+    color: 
+}
+.colour{
+    text-align: center;
+    font-family: 'Bitter';
+    color: #1b262c;
+}
+
+.display-4{
+    font-size: 32px;
+}
+
+.lead{
+    font-size: 40px;
+}
+
+.nex{
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='black' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}
+.pre{
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='black' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
